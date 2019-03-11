@@ -1,3 +1,4 @@
 # CS164
-Database at UCR. Mainly using sql to exectue queries.
+
+Networks at UCR during Fall of 2018.
 
